@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(81): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPCWSTR”
+  e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(81): note: 请考虑在格式字符串中使用“%ls”
+  e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(81): note: 请考虑在格式字符串中使用“%lls”
+  e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(81): note: 请考虑在格式字符串中使用“%Ls”
+  e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(81): note: 请考虑在格式字符串中使用“%ws”
+e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(111): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(149): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 973 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  文件夹监测.vcxproj -> E:\cpp_code\thread_pool\文件夹监测\文件夹监测\x64\Release\文件夹监测.exe

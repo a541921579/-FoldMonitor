@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\cpp_code\thread_pool\文件夹监测\文件夹监测\文件夹监测\main.cpp(107): warning C4477: “wprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“std::string”
+  文件夹监测.vcxproj -> E:\cpp_code\thread_pool\文件夹监测\文件夹监测\Debug\文件夹监测.exe
